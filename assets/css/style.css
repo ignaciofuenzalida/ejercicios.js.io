@@ -1,0 +1,78 @@
+
+
+/*Index1*/
+
+.pitbull{
+width: 250px;
+height: 250px;
+}
+
+
+.cambiar{
+width: 250px;
+height: 250px;
+border:2px solid red
+}
+
+
+
+/**Index2**/
+
+
+h1{
+font-size: large;
+padding-bottom: 30px;
+}
+
+
+img{
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+padding-bottom: 20px;
+}
+
+
+.input1{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.card{
+display: flex;
+justify-content:space-evenly;
+}
+
+#tbn1{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#verifica {
+color: black;
+font-size: 15px;
+}
+
+
+
+/*Index3*/
+.contraseña{
+display: flex;
+justify-content: center;
+}
+
+.Ingresar{
+display: flex;
+justify-content: center;
+padding-top: 30px; 
+}
+
+#parrafo{
+color: black;
+font-size: 15px;
+}
